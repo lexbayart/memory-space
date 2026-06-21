@@ -3,7 +3,7 @@
 > ⚠️ **Разработка приостановлена на неопределённый срок.**
 > Development is paused indefinitely.
 
-![App interface](images/0.jpg)
+![App interface](docs/screenshot.png)
 
 **[▶ Open in browser — try it now](https://lexbayart.github.io/memory-space/)**
 No install. No account. Works offline.
