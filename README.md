@@ -12,11 +12,11 @@ No install. No account. Works offline.
 
 ## 🔷 What makes this different
 
-Memory Space is a personal knowledge management tool that maps your notes, ideas, and memories onto a 3D timeline. Instead of flat lists or folders, your thoughts exist in a spatial landscape — past behind you, future ahead, with today at the center.
+Memory Space is built on the principles of **Holographic Memory** from Stanislav Muller's course at **[Город Талантов](https://talentcity.ru/)**. It's not a conventional note-taking app — it's a spatial knowledge environment where time is the primary axis of organization.
 
-The interface borrows from video games and sci-fi: a neon grid stretching into the distance, floating nodes representing your notes, hashtag columns on the sides for filtering, and a timeline bar at the bottom that you drag to travel through time. It feels less like a productivity app and more like navigating a personal universe.
+The timeline splits into two diverging lines: **past stretches to the left**, **future extends to the right**, with the present moment at the center. This left-right orientation mirrors how we naturally perceive time. The same structure is duplicated along a flat timeline bar at the bottom of the screen for precise navigation.
 
-Every note is a node on the timeline, positioned by its date. Click a node to expand it into a card with full content, tags, and links to related notes. Edit notes inline — change text, colors, emojis, add or remove hashtags. The app remembers everything in localStorage.
+Every note is a node positioned by its date. Click a node to expand it into a card with full content, tags, and links to related notes. Edit notes inline — change text, colors, emojis, add or remove hashtags. The app remembers everything in localStorage.
 
 Dark and light themes. Zoom mode for focused editing. Clustered views for distant notes that would otherwise clutter the view. Link lines connecting related notes. All of it runs in a single HTML file — no server, no database, no dependencies.
 
@@ -38,10 +38,6 @@ Dark and light themes. Zoom mode for focused editing. Clustered views for distan
 - ❄️ **Time freeze** — click the present anchor to pause auto-scrolling
 - 💾 **Full localStorage persistence** — all edits, new notes, and settings saved locally
 - 📱 **Touch support** — works on tablets and phones with touch gestures
-
----
-
-![Spatial knowledge navigation](images/0.jpg)
 
 ---
 
