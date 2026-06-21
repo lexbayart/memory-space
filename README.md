@@ -1,7 +1,6 @@
-# Memory Space ⛔️ [Beta]
+# Memory Space
 
-> ⚠️ **Разработка приостановлена на неопределённый срок.**
-> Development is paused indefinitely.
+> Голографическая память в интерфейсе. Взаимодействуй с ним, чтобы помнить, когда произошло то, что ты помнишь.
 
 ![App interface](docs/screenshot.png)
 
