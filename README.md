@@ -10,15 +10,19 @@ No install. No account. Works offline.
 
 ---
 
-## 🔷 What makes this different
+## 🔷 Что это и зачем
 
-Memory Space is built on the principles of **Holographic Memory** from Stanislav Muller's course at **[Город Талантов](https://talentcity.ru/)**. It's not a conventional note-taking app — it's a spatial knowledge environment where time is the primary axis of organization.
+Memory Space — это тренажёр пространственного мышления, основанный на методах **Голографической памяти** из курса Станислава Мюллера в **[Город Талантов](https://talentcity.ru/)**.
 
-The timeline splits into two diverging lines: **past stretches to the left**, **future extends to the right**, with the present moment at the center. This left-right orientation mirrors how we naturally perceive time. The same structure is duplicated along a flat timeline bar at the bottom of the screen for precise navigation.
+Это не просто заметки. Это пространственная среда для работы с собственной памятью. Вы фиксируете мысль, событие или идею — и размещаете её в пространстве по оси времени. Прочитав короткую заметку позже, вы как бы возвращаетесь к собственному воспоминанию. Связи между заметками помогают вспомнить контекст: что было до, что после, что с этим связано.
 
-Every note is a node positioned by its date. Click a node to expand it into a card with full content, tags, and links to related notes. Edit notes inline — change text, colors, emojis, add or remove hashtags. The app remembers everything in localStorage.
+**Главная идея:** когда вы знаете, *когда* что-то произошло, вам легче это вспомнить. Пространственная привязка к времени — мощный инструмент памяти.
 
-Dark and light themes. Zoom mode for focused editing. Clustered views for distant notes that would otherwise clutter the view. Link lines connecting related notes. All of it runs in a single HTML file — no server, no database, no dependencies.
+> ⚠️ Приложение не заменяет работу собственной памяти, а дополняет её. Это костыль и тренажёр для развития пространственного мышления.
+
+Временная линия разделена на две ветви: **прошлое уходит влево**, **будущее — вправо**, настоящее — в центре. Та же структура дублируется на плоской шкале внизу экрана для точной навигации.
+
+Каждая заметка — узел на линии. Кликните, чтобы открыть карточку с текстом, тегами и связями. Редактируйте прямо в карточке: текст, цвет, эмодзи, хэштеги. Всё сохраняется в браузере.
 
 ---
 
