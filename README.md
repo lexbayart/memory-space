@@ -105,7 +105,6 @@ Single HTML file · Zero dependencies · Zero build step
 
 ## 💬 Feedback & Contact
 
-⚠️ **Development is paused indefinitely.** This is an archived snapshot.
 If you have ideas or want to fork and continue — go ahead (CC BY-NC 4.0).
 
 - **Telegram:** [@lexbayart](https://t.me/lexbayart)
