@@ -106,7 +106,7 @@ Single HTML file · Zero dependencies · Zero build step
 
 If you have ideas or want to fork and continue — go ahead (CC BY-NC 4.0).
 
-- **Telegram:** [@lexbayart](https://t.me/lexbayart)
+- **Telegram:** [@lexbay](https://t.me/lexbay)
 - **GitHub Issues:** [Open an issue](https://github.com/lexbayart/memory-space/issues)
 
 ---
